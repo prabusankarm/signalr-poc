@@ -1,0 +1,14 @@
+D:\Project\SignalR\CSPOC\CSPOC\bin\Release\netcoreapp2.1\CSPOC.deps.json
+D:\Project\SignalR\CSPOC\CSPOC\bin\Release\netcoreapp2.1\CSPOC.runtimeconfig.json
+D:\Project\SignalR\CSPOC\CSPOC\bin\Release\netcoreapp2.1\CSPOC.runtimeconfig.dev.json
+D:\Project\SignalR\CSPOC\CSPOC\bin\Release\netcoreapp2.1\CSPOC.dll
+D:\Project\SignalR\CSPOC\CSPOC\bin\Release\netcoreapp2.1\CSPOC.pdb
+D:\Project\SignalR\CSPOC\CSPOC\obj\Release\netcoreapp2.1\CSPOC.csprojAssemblyReference.cache
+D:\Project\SignalR\CSPOC\CSPOC\obj\Release\netcoreapp2.1\CSPOC.csproj.CoreCompileInputs.cache
+D:\Project\SignalR\CSPOC\CSPOC\obj\Release\netcoreapp2.1\CSPOC.RazorAssemblyInfo.cache
+D:\Project\SignalR\CSPOC\CSPOC\obj\Release\netcoreapp2.1\CSPOC.RazorAssemblyInfo.cs
+D:\Project\SignalR\CSPOC\CSPOC\obj\Release\netcoreapp2.1\CSPOC.AssemblyInfoInputs.cache
+D:\Project\SignalR\CSPOC\CSPOC\obj\Release\netcoreapp2.1\CSPOC.AssemblyInfo.cs
+D:\Project\SignalR\CSPOC\CSPOC\obj\Release\netcoreapp2.1\CSPOC.RazorTargetAssemblyInfo.cache
+D:\Project\SignalR\CSPOC\CSPOC\obj\Release\netcoreapp2.1\CSPOC.dll
+D:\Project\SignalR\CSPOC\CSPOC\obj\Release\netcoreapp2.1\CSPOC.pdb
