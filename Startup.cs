@@ -25,11 +25,7 @@ namespace CSPOC
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
-        {
-            services.Configure<ForwardedHeadersOptions>(options =>
-            {
-                options.KnownProxies.Add(IPAddress.Parse("10.0.0.100"));
-            });
+        {        
             services.AddCors(o => o.AddPolicy("MyPolicy", builder =>
             {
                 builder.AllowAnyOrigin()
@@ -49,11 +45,7 @@ namespace CSPOC
             {
                 app.UseDeveloperExceptionPage();
             }
-            app.UseForwardedHeaders(new ForwardedHeadersOptions
-            {
-                ForwardedHeaders = ForwardedHeaders.XForwardedFor | ForwardedHeaders.XForwardedProto
-            });
-
+           
             app.UseCors("MyPolicy");
             app.UseSignalR((routes) => {
 
