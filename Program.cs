@@ -16,7 +16,7 @@ namespace CSPOC
         {
             CreateWebHostBuilder(args)
             .UseKestrel()
-            .UseUrls("http://*:80")
+            .UseUrls("http://*:85")
             .UseContentRoot(Directory.GetCurrentDirectory())
             .UseStartup<Startup>()
             .Build().Run();
