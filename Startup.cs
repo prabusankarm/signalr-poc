@@ -28,7 +28,7 @@ namespace CSPOC
         {
             services.Configure<ForwardedHeadersOptions>(options =>
             {
-                options.KnownProxies.Add(IPAddress.Parse("10.17.65.5"));
+                options.KnownProxies.Add(IPAddress.Parse("10.0.0.100"));
             });
             services.AddCors(o => o.AddPolicy("MyPolicy", builder =>
             {
